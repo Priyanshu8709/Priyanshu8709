@@ -58,22 +58,6 @@ Currently improving backend architecture, authentication systems and production-
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=020617" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="170"/>
-</p>
-
----
-
-## Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=020617"/>
-</p>
-
----
 
 ## Connect With Me
 
@@ -82,11 +66,9 @@ Currently improving backend architecture, authentication systems and production-
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:priyanshurajsk_cse23@its.edu.in">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
