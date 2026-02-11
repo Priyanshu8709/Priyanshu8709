@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Priyanshu%20Raj&fontSize=45&fontColor=38bdf8" />
 
-<img src="PASTE_TYPING_LINK_HERE" />
+<img src="https://readme-typing-svg.demolab.com/demo/?weight=800&size=35&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Open+to+Internship+Opportunities" />
 
 <br><br>
 
