@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Open+to+Internship+Opportunities" alt="Typing SVG" /></a>
 </p>
----
 
 ## About Me
 
