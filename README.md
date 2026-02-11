@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Priyanshu%20Raj&fontSize=45&fontColor=38bdf8" />
 
-<img src="https://readme-typing-svg.demolab.com/demo/?weight=800&size=35&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Open+to+Internship+Opportunities" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Open+to+Internship+Opportunities" alt="Typing SVG" /></a>
 
 <br><br>
 
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=38bdf8&style=flat" />
+<a href="https://github.com/Priyanshu8709">
 </a>
 
 </div>
