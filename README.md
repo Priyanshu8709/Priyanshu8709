@@ -62,7 +62,7 @@ Currently improving backend architecture, authentication systems and production-
 ## Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="linkedin.com/in/priyanshu-raj-dev870">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
