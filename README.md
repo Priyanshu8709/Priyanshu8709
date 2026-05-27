@@ -1,63 +1,81 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=header&text=Priyanshu%20Raj&fontSize=35&fontColor=38bdf8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=170&section=header&text=Priyanshu%20Raj&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Open+to+Internship+Opportunities" alt="Typing SVG" /></a>
-</p>
-
-## About Me
-
-I am a Full Stack MERN Developer focused on building practical and real-world web applications.
-I prefer learning by building and understanding how systems work behind the interface.
-
-Currently improving:
-
-* Backend architecture
-* Authentication & authorization
-* Production-ready project structure
-* Clean API design
-
----
-
-## Tech Stack
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&perline=3" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb&perline=1" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=2" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Java+Spring+Boot+Backend+Developer;Full+Stack+Developer+%7C+MERN+%2B+Java;Building+Scalable+Backend+Systems;Learning+Microservices+%26+System+Design;Open+to+Internship+Opportunities" alt="Typing SVG" />
+</a>
 </p>
 
 ---
 
-## Current Focus
+# 💫 About Me
 
-* Building production-level projects
-* Strengthening backend development
-* System design fundamentals
-* Preparing for Web Development Internship
+🚀 Full Stack Developer with strong interest in **Backend Engineering** and scalable application development using **Java & Spring Boot**.
+
+💡 I enjoy building practical projects, designing APIs, and understanding how real-world backend systems work internally.
+
+🎯 Currently focused on:
+- Spring Boot Backend Development
+- REST APIs & Authentication
+- Spring Security & JPA/Hibernate
+- Clean Code & Backend Architecture
+- Database Design
+- System Design Fundamentals
 
 ---
 
-## Connect With Me
+# 🛠️ Tech Stack
+
+## ⚡ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,express&perline=5" />
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&perline=5" />
+</p>
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
+</p>
+
+## 🧰 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&perline=5" />
+</p>
+
+---
+
+# 🔥 Current Learning Journey
+
+✔ Spring Boot Fundamentals  
+✔ REST APIs & CRUD Operations  
+✔ Spring Data JPA  
+✔ Spring Security  
+✔ DTOs & ModelMapper  
+✔ Backend Best Practices  
+🔄 Learning Microservices & System Design
+
+---
+
+# 📈 Goals
+
+- Secure a Backend / Full Stack Internship
+- Become Production-Ready in Spring Boot
+- Build Scalable Real-World Projects
+- Learn DevOps & Cloud Technologies
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -74,5 +92,5 @@ Currently improving:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:020617&height=120&section=footer"/>
 </p>
