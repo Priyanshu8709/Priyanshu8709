@@ -1,22 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=180&section=header&text=Priyanshu%20Raj&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=190&section=header&text=Priyanshu%20Raj&fontSize=44&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Open+to+Internship+Opportunities" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-raj-dev870/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanshurajsk_cse23@its.edu.in">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Priyanshu8709">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=1050&lines=Full+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Open+to+Internship+Opportunities"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -25,7 +16,7 @@
 </p>
 
 <p align="center">
-  Passionate about building scalable web applications, REST APIs, and solving real-world problems through technology.
+  Passionate about building scalable web applications, designing REST APIs, and solving real-world problems through technology.
 </p>
 
 <br>
@@ -49,13 +40,25 @@ Final Year B.Tech (Computer Science Engineering) student focused on Full Stack D
   <img src="https://img.shields.io/badge/Tech_Stack-0F172A?style=for-the-badge&logo=stackshare&logoColor=38bdf8" />
 </p>
 
+### Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
+### Backend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -82,11 +85,41 @@ Final Year B.Tech (Computer Science Engineering) student focused on Full Stack D
   <img src="https://img.shields.io/badge/Featured_Projects-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </p>
 
-| Project | Description | Technologies |
-|----------|-------------|-------------|
-| **LetLearn** | Learning platform with authentication and role-based access control | React, Node.js, Express.js, MongoDB |
-| **AI Applications** | Food Freshness Detection, Package Damage Detection, Skin Analysis, Emotion Recognition | Python, TensorFlow, Keras, Flask |
-| **Full Stack Applications** | Responsive applications with REST APIs, authentication, and database integration | MERN Stack |
+### 📚 LetLearn
+
+A full-stack MERN learning platform designed to provide a seamless learning experience with secure authentication and role-based access control.
+
+**Key Features**
+- User Authentication & Authorization
+- Role-Based Access Control
+- Responsive User Interface
+- REST API Integration
+- MongoDB Database Management
+
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+### 🔐 AuthForge
+
+A backend-focused authentication system built to implement secure user management and modern authentication workflows.
+
+**Key Features**
+- User Registration & Login
+- JWT Authentication
+- Password Encryption
+- Protected Routes
+- RESTful API Architecture
+
+**Tech Stack**
+- Node.js
+- Express.js
+- MongoDB
+- JWT
 
 <br>
 
@@ -113,6 +146,26 @@ Final Year B.Tech (Computer Science Engineering) student focused on Full Stack D
 - Improve Backend Development Expertise
 - Learn System Design
 - Explore DevOps & Cloud Technologies
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Connect_With_Me-0F172A?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-raj-dev870/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:priyanshurajsk_cse23@its.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Priyanshu8709">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
