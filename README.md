@@ -1,110 +1,102 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=170&section=header&text=Priyanshu%20Raj&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=180&section=header&text=Priyanshu%20Raj&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Developer;Building+Modern+Web+Applications;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  </a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/priyanshu-raj-dev870/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:priyanshurajsk_cse23@its.edu.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Priyanshu8709">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/priyanshu-raj-dev870/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:priyanshurajsk_cse23@its.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Priyanshu8709">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
----
-# <img src="https://img.shields.io/badge/About-Me-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8"/>
-Final Year B.Tech (Computer Science Engineering) student passionate about building modern web applications and solving real-world problems through technology.
-Experienced in developing full-stack applications, designing REST APIs, implementing authentication systems, and working with modern web technologies.
-Currently focused on strengthening backend development, problem-solving, and system design skills while preparing for software engineering opportunities.
-### Areas of Interest
-- Full Stack Development
-- React.js & Modern Frontend Development
-- Node.js & Express.js
-- REST APIs & Authentication
-- MongoDB & MySQL
-- Backend Engineering
-- System Design Fundamentals
-- Data Structures & Algorithms (Java)
----
-# <img src="https://img.shields.io/badge/Tech-Stack-0F172A?style=for-the-badge&logo=stackshare&logoColor=38bdf8"/>
+<br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,mongodb,mysql,git,github,vscode,postman" />
+  <b>Final Year B.Tech (CSE) Student • Full Stack Developer • Backend Enthusiast</b>
+</p>
+<p align="center">
+Passionate about building scalable web applications, designing REST APIs, and solving real-world problems through technology.
 </p>
 ---
-# <img src="https://img.shields.io/badge/Current-Learning-0F172A?style=for-the-badge&logo=bookstack&logoColor=38bdf8"/>
-### Full Stack Development
-- HTML, CSS & JavaScript
-- React.js & Tailwind CSS
-- Node.js & Express.js
-- REST API Development
-- Authentication & Authorization
-- MongoDB & MySQL
-- Git & GitHub Workflow
-### Currently Exploring
-- Advanced Backend Development
-- System Design
-- Design Patterns
-- Microservices Concepts
-- DevOps Fundamentals
-- Cloud Technologies
+## <img src="https://img.shields.io/badge/About_Me-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8" />
+Final Year B.Tech (Computer Science Engineering) student focused on Full Stack Development and Backend Engineering.
+Experienced in building web applications using React, Node.js, Express.js, and MongoDB. Passionate about backend systems, REST APIs, problem solving, and system design.
+- Building full-stack applications with modern web technologies
+- Developing REST APIs and authentication systems
+- Practicing Data Structures & Algorithms using Java
+- Learning scalable backend architecture and system design
+- Seeking Full Stack / Backend Development Internship opportunities
 ---
-# <img src="https://img.shields.io/badge/Featured-Projects-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+## <img src="https://img.shields.io/badge/Tech_Stack-0F172A?style=for-the-badge&logo=stackshare&logoColor=38bdf8" />
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+</p>
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+---
+## <img src="https://img.shields.io/badge/GitHub_Analytics-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8" />
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu8709&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu8709&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu8709&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu8709&theme=tokyonight"/>
+</p>
+---
+## <img src="https://img.shields.io/badge/Featured_Projects-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8" />
 ### LetLearn
-A full-stack MERN learning platform featuring authentication, role-based access control, and a modern user experience.
+A MERN-based learning platform featuring authentication, role-based access control, and a modern responsive user experience.
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 ### AI-Based Applications
-Built intelligent applications including:
+Developed intelligent applications including:
 - Food Freshness Detection
 - Package Damage Detection
 - Skin Analysis System
 - Emotion Recognition System
+**Tech Stack:** Python, TensorFlow, Keras, Flask, Computer Vision
 ### Full Stack Web Applications
-Developed responsive web applications with:
+Built responsive web applications with:
 - REST APIs
 - Authentication & Authorization
 - Database Integration
-- Modern Responsive UI
+- Modern UI/UX Design
 ---
-# <img src="https://img.shields.io/badge/GitHub-Analytics-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8"/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu8709&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu8709&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu8709&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu8709&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu8709&theme=tokyo-night&hide_border=true"/>
-</p>
+## <img src="https://img.shields.io/badge/Currently_Working_On-0F172A?style=for-the-badge&logo=bookstack&logoColor=38bdf8" />
+- Full Stack MERN Applications
+- Backend Development
+- REST API Design
+- Data Structures & Algorithms
+- System Design Fundamentals
 ---
-# <img src="https://img.shields.io/badge/Goals-0F172A?style=for-the-badge&logo=target&logoColor=38bdf8"/>
+## <img src="https://img.shields.io/badge/Goals-0F172A?style=for-the-badge&logo=target&logoColor=38bdf8" />
 - Secure a Full Stack / Backend Development Internship
 - Build Production-Ready Applications
-- Improve Backend Development Skills
-- Strengthen DSA & Problem Solving
+- Strengthen DSA & Problem Solving Skills
+- Improve Backend Development Expertise
 - Learn System Design
 - Explore DevOps & Cloud Technologies
 ---
 <p align="center">
-<a href="https://www.linkedin.com/in/priyanshu-raj-dev870/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:priyanshurajsk_cse23@its.edu.in">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/Priyanshu8709">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
----
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:020617&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:020617&height=120&section=footer"/>
 </p>
